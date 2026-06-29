@@ -20,7 +20,7 @@ My goal is to understand how systems work, identify security weaknesses, and lea
 
 ## Connect with Me
 
-💼 LinkedIn: https://www.linkedin.com/in/benjamin-rector-24583941a/
+💼 LinkedIn: https://www.linkedin.com/in/benjamin-rector-24583941a/ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ---
 
