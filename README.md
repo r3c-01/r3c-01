@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# 🐉 Cybersecurity Portfolio
 
 Welcome!
 
@@ -8,7 +8,7 @@ Everything in this repository was performed in authorized lab environments or CT
 
 ---
 
-## About Me
+## 👋 About Me
 
 My name is Ben Rector.
 
@@ -20,11 +20,11 @@ My goal is to understand how systems work, identify security weaknesses, and lea
 
 ## Connect with Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/benjamin-rector-24583941a/)
+💼 LinkedIn: https://www.linkedin.com/in/benjamin-rector-24583941a/
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 - Network Security
 - Linux
@@ -37,7 +37,7 @@ My goal is to understand how systems work, identify security weaknesses, and lea
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```
 Projects/
@@ -49,7 +49,7 @@ Images/
 
 ---
 
-## Projects
+## 💻 Projects
 
 | Project | Status | Description |
 |---------|:------:|-------------|
@@ -57,7 +57,7 @@ Images/
 
 ---
 
-## Tools
+## 🛠️ Skills & Tools
 
 - Nmap
 - Wireshark
@@ -70,7 +70,14 @@ Images/
 
 ---
 
-## Goals
+## 📜 Certifications
+
+- Working on Security+
+- Working on Network+
+
+---
+
+## 🚀 Goals
 
 - Complete practical cybersecurity labs
 - Develop Python automation scripts
@@ -80,7 +87,7 @@ Images/
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This repository is intended for educational purposes only.
 
