@@ -1,16 +1,81 @@
-## Hi there 👋
+# Cybersecurity Portfolio
 
-<!--
-**r3c-01/r3c-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!
 
-Here are some ideas to get you started:
+This repository documents my hands-on cybersecurity labs, projects, scripts, and research as I continue developing my skills in offensive security, defensive security, networking, and system administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything in this repository was performed in authorized lab environments or CTF platforms.
+
+---
+
+## About Me
+
+My name is Ben Rector.
+
+I'm building practical cybersecurity experience through hands-on labs, home lab projects, scripting, and continuous learning.
+
+My goal is to understand how systems work, identify security weaknesses, and learn how to defend against them.
+
+---
+
+## Current Focus
+
+- Network Security
+- Linux
+- Windows
+- Active Directory
+- Python Automation
+- Penetration Testing
+- Digital Forensics
+- Threat Hunting
+
+---
+
+## Repository Structure
+
+```
+Projects/
+Scripts/
+Notes/
+Resources/
+Images/
+```
+
+---
+
+## Projects
+
+| Project | Status | Description |
+|---------|:------:|-------------|
+| Coming Soon | 🚧 | First project in progress |
+
+---
+
+## Tools
+
+- Nmap
+- Wireshark
+- Burp Suite Community
+- Metasploit Framework
+- Kali Linux
+- Python
+- Bash
+- PowerShell
+
+---
+
+## Goals
+
+- Complete practical cybersecurity labs
+- Develop Python automation scripts
+- Document projects clearly
+- Improve reporting and documentation
+- Continue learning and sharing knowledge
+
+---
+
+## Disclaimer
+
+This repository is intended for educational purposes only.
+
+All testing was performed in authorized environments such as home labs, virtual machines, and Capture the Flag (CTF) platforms.
