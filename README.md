@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Images/banner.png" width="100%">
-</p>
-
 <h1 align="center">Ben's Cybersecurity Portfolio</h1>
 
 <p align="center">
