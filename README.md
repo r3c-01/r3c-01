@@ -9,7 +9,7 @@ Cybersecurity Student • Offensive Security • Penetration Testing • Continu
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOURPROFILE">
+  <a href="https://www.linkedin.com/in/b3nr3ct0r/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -28,8 +28,6 @@ I'm building hands-on experience through home lab projects, CTFs, and security r
 
 - Earn CompTIA Security+
 - Build a strong penetration testing portfolio
-- Develop Python automation skills
-- Expand my Active Directory lab
 - Continue learning through hands-on practice
 
 ---
@@ -44,33 +42,24 @@ I'm building hands-on experience through home lab projects, CTFs, and security r
 ### Networking
 
 - TCP/IP
-- DNS
-- DHCP
-- Routing
-- Switching
+- UDP
+- IPv4 Addressing
+- Subnetting
+- Common Network Protocols
+- Common Ports & Services
 
 ### Security
 
 - Network Enumeration
 - Vulnerability Assessment
 - Web Security
-- Active Directory
-- Basic Digital Forensics
-
-### Programming
-
-- Bash
-
----
 
 ## 🧰 Tools
 
 - Nmap
 - Wireshark
-- Burp Suite Community
 - Metasploit Framework
 - Kali Linux
-- Git
 - VirtualBox
 
 ---
@@ -109,6 +98,7 @@ Images/
 
 - ✅ Home Lab
 - ✅ GitHub Portfolio
+- ✅ Hands-on Experience Through TryHackMe
 - 🚧 Security+
 - 🚧 Active Directory Lab
 - 🚧 Python Projects
@@ -117,7 +107,7 @@ Images/
 
 ## 🌐 Connect
 
-- 💼 LinkedIn - 
+- 💼 LinkedIn https://www.linkedin.com/in/b3nr3ct0r/
 - 📧 Email r3cben@gmail.com
 
 ---
