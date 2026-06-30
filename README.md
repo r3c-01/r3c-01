@@ -1,39 +1,77 @@
-# 🐉 Cybersecurity Portfolio
+<p align="center">
+  <img src="Images/banner.png" width="100%">
+</p>
 
-Welcome!
+<h1 align="center">Ben's Cybersecurity Portfolio</h1>
 
-This repository documents my hands-on cybersecurity labs, projects, scripts, and research as I continue developing my skills in offensive security, defensive security, networking, and system administration.
+<p align="center">
+Cybersecurity Student • Offensive Security • Penetration Testing • Continuous Learner
+</p>
 
-Everything in this repository was performed in authorized lab environments or CTF platforms.
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOURPROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 👋 About Me
 
-My name is Ben Rector.
+I'm a cybersecurity student at Ivy Tech Community College with a passion for offensive security and penetration testing.
 
-I'm building practical cybersecurity experience through hands-on labs, home lab projects, scripting, and continuous learning.
-
-My goal is to understand how systems work, identify security weaknesses, and learn how to defend against them.
+I'm building hands-on experience through home lab projects, CTFs, and security research while preparing for the CompTIA Security+ certification.
 
 ---
 
-## Connect with Me
+## 🎯 Current Goals
 
-💼 LinkedIn: https://www.linkedin.com/in/b3nr3ct0r/
+- Earn CompTIA Security+
+- Build a strong penetration testing portfolio
+- Develop Python automation skills
+- Expand my Active Directory lab
+- Continue learning through hands-on practice
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Skills & Technologies
 
-- Network Security
+### Operating Systems
+
 - Linux
 - Windows
+
+### Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- Routing
+- Switching
+
+### Security
+
+- Network Enumeration
+- Vulnerability Assessment
+- Web Security
 - Active Directory
-- Python Automation
-- Penetration Testing
-- Digital Forensics
-- Threat Hunting
+- Basic Digital Forensics
+
+### Programming
+
+- Bash
+
+---
+
+## 🧰 Tools
+
+- Nmap
+- Wireshark
+- Burp Suite Community
+- Metasploit Framework
+- Kali Linux
+- Git
+- VirtualBox
 
 ---
 
@@ -49,46 +87,41 @@ Images/
 
 ---
 
-## 💻 Projects
+## 💻 Featured Projects
 
-| Project | Status | Description |
-|---------|:------:|-------------|
-| Coming Soon | 🚧 | First project in progress |
-
----
-
-## 🛠️ Skills & Tools
-
-- Nmap
-- Wireshark
-- Burp Suite Community
-- Metasploit Framework
-- Kali Linux
-- Python
-- Bash
-- PowerShell
+| Project | Description | Status |
+|---------|-------------|:------:|
+| Coming Soon | Building my first documented project | 🚧 |
 
 ---
 
-## 📜 Certifications
+## 📚 Currently Learning
 
-- Working on Security+
-- Working on Network+
+- TryHackMe
+- Active Directory
+- Windows Privilege Escalation
+- Linux Privilege Escalation
+- Python for Security
 
 ---
 
-## 🚀 Goals
+## 📈 Progress
 
-- Complete practical cybersecurity labs
-- Develop Python automation scripts
-- Document projects clearly
-- Improve reporting and documentation
-- Continue learning and sharing knowledge
+- ✅ Home Lab
+- ✅ GitHub Portfolio
+- 🚧 Security+
+- 🚧 Active Directory Lab
+- 🚧 Python Projects
+
+---
+
+## 🌐 Connect
+
+- 💼 LinkedIn - 
+- 📧 Email r3cben@gmail.com
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository is intended for educational purposes only.
-
-All testing was performed in authorized environments such as home labs, virtual machines, and Capture the Flag (CTF) platforms.
+All projects in this repository were completed in authorized environments including home labs, virtual machines, and Capture the Flag (CTF) platforms. Nothing here is intended for unauthorized use.
