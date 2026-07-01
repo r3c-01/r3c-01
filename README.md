@@ -39,6 +39,7 @@ I'm building hands-on experience through home lab projects, CTFs, and security r
 
 - TCP/IP
 - UDP
+- DNS
 - IPv4 Addressing
 - Subnetting
 - Common Network Protocols
