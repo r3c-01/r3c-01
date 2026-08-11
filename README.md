@@ -1,7 +1,7 @@
 <h1 align="center">Ben's Cybersecurity Portfolio</h1>
 
 <p align="center">
-Cybersecurity Student • Offensive Security • Penetration Testing • Continuous Learner
+Cybersecurity Student • Penetration Testing • Offensive Security • Linux
 </p>
 
 <p align="center">
@@ -16,15 +16,7 @@ Cybersecurity Student • Offensive Security • Penetration Testing • Continu
 
 I'm a cybersecurity student at Ivy Tech Community College with a passion for offensive security and penetration testing.
 
-I'm building hands-on experience through home lab projects, CTFs, and security research while preparing for the CompTIA Security+ certification.
-
----
-
-## 🎯 Current Goals
-
-- Earn CompTIA Security+
-- Build a strong penetration testing portfolio
-- Continue learning through hands-on practice
+I'm building hands-on experience through home lab projects, CTFs, and security research.
 
 ---
 
@@ -32,44 +24,36 @@ I'm building hands-on experience through home lab projects, CTFs, and security r
 
 ### Operating Systems
 
-- Linux
+- Linux Administration / CLI
 - Windows
 
 ### Networking
 
-- TCP/IP
-- UDP
+- TCP/IP Networking
 - DNS
-- IPv4 Addressing
 - Subnetting
-- Common Network Protocols
-- Common Ports & Services
+- Common Network Protocols & Services
+- Network Enumeration
 
 ### Security
 
-- Network Enumeration
+- Web Application Testing
 - Vulnerability Assessment
-- Web Security
+- Linux Privilege Escalation
+- Service Enumeration
+- CTF / Lab Based Pentesting
 
-## 🧰 Tools
+## 🧰 Tools & Environments
 
 - Nmap
+- Burp Suite
 - Wireshark
+- Gobuster / Feroxbuster
 - Metasploit Framework
+- John the Ripper
+- Hydra
 - Kali Linux
 - VirtualBox
-
----
-
-## 📂 Repository Structure
-
-```
-Projects/
-Scripts/
-Notes/
-Resources/
-Images/
-```
 
 ---
 
@@ -83,22 +67,11 @@ Images/
 
 ## 📚 Currently Learning
 
-- TryHackMe
+- Windows Security & Privilege Escalation
 - Active Directory
-- Windows Privilege Escalation
 - Linux Privilege Escalation
-- Python for Security
-
----
-
-## 📈 Progress
-
-- ✅ Home Lab
-- ✅ GitHub Portfolio
-- ✅ Hands-on Experience Through TryHackMe
-- 🚧 Security+
-- 🚧 Active Directory Lab
-- 🚧 Python Projects
+- SQL
+- Python
 
 ---
 
