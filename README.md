@@ -61,7 +61,7 @@ I'm building hands-on experience through home lab projects, CTFs, and security r
 
 | Project | Description | Status |
 |---------|-------------|:------:|
-| Coming Soon | Building my first documented project | 🚧 |
+| [CTF Writeups](https://github.com/r3c-01/ctf-writeups) | THM CTF Write-ups | Ongoing |
 
 ---
 
